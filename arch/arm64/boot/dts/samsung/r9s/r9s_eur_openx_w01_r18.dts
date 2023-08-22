@@ -251,7 +251,7 @@
 
 							resource@1 {
 								resource,label = "cluster2";
-								resource,value = <0x130b00 0x00>;
+								resource,value = <0x2ad8c0 0x2ad8c0>;
 							};
 
 							resource@4 {
@@ -277,7 +277,7 @@
 
 							resource@1 {
 								resource,label = "cluster2";
-								resource,value = <0x130b00 0x00>;
+								resource,value = <0x2ad8c0 0x2ad8c0>;
 							};
 
 							resource@4 {
@@ -303,7 +303,7 @@
 
 							resource@1 {
 								resource,label = "cluster2";
-								resource,value = <0x130b00 0x1174c0>;
+								resource,value = <0x2ad8c0 0x2ad8c0>;
 							};
 
 							resource@4 {
@@ -329,7 +329,7 @@
 
 							resource@1 {
 								resource,label = "cluster2";
-								resource,value = <0x1e26c0 0x163780>;
+								resource,value = <0x2ad8c0 0x2ad8c0>;
 							};
 
 							resource@4 {
@@ -355,7 +355,7 @@
 
 							resource@1 {
 								resource,label = "cluster2";
-								resource,value = <0x130b00 0x130b00>;
+								resource,value = <0x2ad8c0 0x2ad8c0>;
 							};
 
 							resource@4 {
@@ -381,7 +381,7 @@
 
 							resource@1 {
 								resource,label = "cluster2";
-								resource,value = <0x130b00 0x82208>;
+								resource,value = <0x2ad8c0 0x2ad8c0>;
 							};
 
 							resource@4 {
@@ -407,7 +407,7 @@
 
 							resource@1 {
 								resource,label = "cluster2";
-								resource,value = <0x130b00 0x00>;
+								resource,value = <0x2ad8c0 0x2ad8c0>;
 							};
 
 							resource@4 {
@@ -433,7 +433,7 @@
 
 							resource@1 {
 								resource,label = "cluster2";
-								resource,value = <0x130b00 0x82208>;
+								resource,value = <0x2ad8c0 0x2ad8c0>;
 							};
 
 							resource@4 {
@@ -459,7 +459,7 @@
 
 							resource@1 {
 								resource,label = "cluster2";
-								resource,value = <0x196400 0xfde80>;
+								resource,value = <0x2ad8c0 0x2ad8c0>;
 							};
 
 							resource@4 {
